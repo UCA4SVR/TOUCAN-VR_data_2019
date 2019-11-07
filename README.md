@@ -17,11 +17,11 @@ Marco WINCKLER
 
 References:
 
-[1] L. Sassatelli, M. Winckler, T. Fisichella, R. Aparicio and D. Trevisan. New Interactive Strategies for Virtual Reality Streaming in Degraded Context of Use. Accepted for publication in Elsevier Computers & Graphics, Sep. 2019.  
+[1] L. Sassatelli, M. Winckler, T. Fisichella, A. Dezarnaud, J. Lemaire, R. Aparicio and D. Trevisan. New Interactive Strategies for Virtual Reality Streaming in Degraded Context of Use. Elsevier Computers & Graphics, Oct. 2019.  
 [2] TOUCAN-VR https://github.com/UCA4SVR/TOUCAN-VR/tree/generalized_ops
 
 ## Usage
-Download and unzip the zipped folder. The results have been processed with Matlab R2017a and python3.  
+Download and unzip the zipped folder. The results have been processed with Matlab R2017a.  
 
 Folder 'analysis/DataAnalysis' contains the matlab scripts to generate the results presented in article [1] above. To do so, run 'HM_BW_Boxplot.m' and 'Subjective_measures_boxplot.m'.  
 
@@ -29,5 +29,3 @@ Folder 'data_for_exp' contains information about the videos and parameters used 
 
 Folder 'data_from_exp' contains the datasets resulting from the user experiments.
 
-## Contact
-For any question, please send an email to githubprojecttoucanvr@gmail.com
